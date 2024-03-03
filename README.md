@@ -75,6 +75,7 @@ reboot
 -   Local installation using disko: <https://github.com/nix-community/disko/blob/master/docs/quickstart.md>
 -   <https://github.com/nix-community/nixos-anywhere>
 -   Official nix documentation: <https://nix.dev/>
+-   Official NixOS installation with ad-hoc partitioning: <https://nixos.org/manual/nixos/stable/#sec-installation>
 
 ## Going beyond
 
